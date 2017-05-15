@@ -2,16 +2,11 @@
 This is a MATLAB/Simulink simulation of two six axis robots playing table tennis. 
 
 ## Dependencies
-[MATLAB](https://de.mathworks.com/help/matlab/)
-
-[Simulink](https://de.mathworks.com/help/simulink/index.html)
-
-[Simscape](https://de.mathworks.com/help/physmod/simscape/index.html)
-
-[Simscape Multibody Contact ForcesLibrary](https://de.mathworks.com/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library)
-
-[Robotics Toolbox](http://petercorke.com/Robotics_Toolbox.html)
-
+[MATLAB](https://de.mathworks.com/help/matlab/)  
+[Simulink](https://de.mathworks.com/help/simulink/index.html)  
+[Simscape](https://de.mathworks.com/help/physmod/simscape/index.html)  
+[Simscape Multibody Contact ForcesLibrary](https://de.mathworks.com/matlabcentral/fileexchange/47417-simscape-multibody-contact-forces-library)  
+[Robotics Toolbox](http://petercorke.com/Robotics_Toolbox.html)  
 Note, that all toolboxes and depencies are already in the repository
 
 ## Usage
