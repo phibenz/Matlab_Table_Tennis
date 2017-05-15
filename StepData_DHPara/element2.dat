@@ -1,0 +1,36 @@
+﻿VOLUMEN =  9.1145618e+06  MM^3
+FLÄCHENINHALT =  3.9877308e+05  MM^2
+DICHTE =  1.0000000e-06 KILOGRAMM / MM^3
+MASSE =  9.1145618e+00 KILOGRAMM 
+
+SCHWERPUNKT in Bezug auf den Koordinatenrahmen _MANIFOLD_SOLID_BREP_11997:
+X   Y   Z -2.5151553e+02  6.9664856e+00  3.9805080e+00  MM
+
+Trägheit in Bezug auf Koordinatensystem _MANIFOLD_SOLID_BREP_11997  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz  4.3317341e+04  1.4672991e+04  7.4547756e+03
+Iyx Iyy Iyz  1.4672991e+04  8.8106387e+05 -1.9313655e+02
+Izx Izy Izz  7.4547756e+03 -1.9313655e+02  8.6438171e+05
+
+Trägheit im Schwerpunkt in Bezug auf Koordinatenrahmen _MANIFOLD_SOLID_BREP_11997  (KILOGRAMM * MM^2)
+
+TRÄGHEITSTENSOR:
+Ixx Ixy Ixz  4.2730578e+04 -1.2973557e+03 -1.6703550e+03
+Iyx Iyy Iyz -1.2973557e+03  3.0433173e+05  5.9611628e+01
+Izx Izy Izz -1.6703550e+03  5.9611628e+01  2.8735165e+05
+
+HAUPTTRÄGHEITSMOMENT:  (KILOGRAMM * MM^2)
+I1  I2  I3   4.2712744e+04  2.8736277e+05  3.0433844e+05
+
+Rotationsmatrix von _MANIFOLD_SOLID_BREP_11997 Orientierung auf Hauptachsen:
+       0.99996       -0.00681        0.00498
+       0.00496       -0.00403       -0.99998
+       0.00683        0.99997       -0.00400
+
+Rotationswinkel von _MANIFOLD_SOLID_BREP_11997 Orientierung auf Hauptachsen (in Grad):
+Winkel um x  y  z  90.229          0.286          0.390 
+
+Umlaufbewegungsradius in Bezug auf die Hauptachsen:
+R1  R2  R3 6.8455893e+01  1.7756091e+02  1.8273028e+02  MM
+
