@@ -1,10 +1,10 @@
 # MATLAB Ping Pong
-This is a MATLAB simulation of two six axis robots playing table tennis. 
+This is a MATLAB/Simulink simulation of two six axis robots playing table tennis. 
 
 ## Dependencies
 [MATLAB](https://de.mathworks.com/help/matlab/)
 
-[Simulin](https://de.mathworks.com/help/simulink/index.html)
+[Simulink](https://de.mathworks.com/help/simulink/index.html)
 
 [Simscape](https://de.mathworks.com/help/physmod/simscape/index.html)
 
